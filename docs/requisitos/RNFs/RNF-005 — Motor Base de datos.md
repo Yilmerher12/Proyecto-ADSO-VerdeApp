@@ -17,7 +17,7 @@
 ## Requisitos
 
 ### RNF-005.1 — Sistema Gestor de Base de Datos Relacional (RDBMS)
-El sistema debe gestionar la persistencia de datos de forma exclusiva mediante el motor de base de datos relacional **MySQL**.
+El sistema debe gestionar la persistencia de datos de forma exclusiva mediante el motor de base de datos relacional **PostgreSQL**.
 
 ### RNF-005.2 — Integridad Referencial
 La base de datos debe implementar restricciones de llaves primarias (PK) y foráneas (FK) estrictas, asegurando la correcta relación entre entidades como Residentes, Recicladores, Conjuntos y Alertas de SHUT.
